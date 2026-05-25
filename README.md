@@ -1,16 +1,172 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**G-Manikanta1729/G-Manikanta1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HERO TITLE -->
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Manikanta;Java+%7C+DSA+%7C+Full+Stack+Developer;Building+Scalable+and+Impactful+Solutions" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- SUBTLE DIVIDER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:A371F7,100:58A6FF"/>
+
+<br>
+
+<!-- PROFESSIONAL SUBTITLE -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=900&lines=Passionate+about+problem+solving+and+software+development.;Focused+on+writing+clean%2C+efficient+and+scalable+code.;Continuously+learning+and+building+real-world+projects." />
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> About Me
+
+🎓 BTech IT Student passionate about software development and problem solving.
+
+💻 Currently focused on:
+- Java Development
+- Data Structures & Algorithms
+- Full Stack Development
+
+🚀 Interested in building scalable, efficient and impactful applications.
+
+🌱 Consistently improving technical and development skills every day.
+
+</td>
+
+<td width="50%" valign="top">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> Developer Profile
+
+```yaml
+Name: Manikanta
+Role: Aspiring Software Engineer
+Education: BTech - Information Technology
+Primary Stack: Java • DSA • Full Stack
+Current Focus: Problem Solving & Development
+Mindset: Consistency • Learning • Growth
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=58A6FF&repeat=true&width=420&lines=%3E+Building+real-world+projects...;%3E+Practicing+problem-solving+daily...;%3E+Learning+modern+development+technologies...;%3E+Growing+as+a+developer+every+day..." />
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
+
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ⚡ Technology Ecosystem
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Tools%20%7C%20Languages%20%7C%20Development&height=40&fontSize=22&animation=fadeIn" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Languages-58A6FF?style=for-the-badge&logo=codecrafters&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
+
+<br><br>
+
+<sub><b>Java • Python • C • JavaScript</b></sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Frontend-A371F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,vscode&theme=dark" />
+
+<br><br>
+
+<sub><b>HTML • CSS • UI Development</b></sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Database%20%26%20API-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postman&theme=dark" />
+
+<br><br>
+
+<sub><b>MySQL • REST APIs</b></sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Tools%20%26%20Platforms-00C896?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+
+<br><br>
+
+<sub><b>Git • GitHub • Docker • Jira</b></sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=5000&pause=1500&color=C9D1D9&center=true&vCenter=true&width=900&lines=Building+clean+and+scalable+solutions.;Focused+on+continuous+learning+and+development.;Exploring+modern+technologies+and+best+practices." />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:A371F7,100:00C896"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- CLEAN FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:58A6FF,50:A371F7,100:58A6FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile.;Let's+build+something+amazing+together." />
+
+</div>
